@@ -1,0 +1,1 @@
+In this project, machine learning models were used to solve the classic spam prediction problem. I applied Logistic Regression, Random Forest, and a Deep Neural Network, after preprocessing the spam.csv dataset, to predict whether an email is spam or not.
